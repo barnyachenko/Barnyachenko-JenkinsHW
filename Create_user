@@ -1,0 +1,35 @@
+[
+    {
+        "urls": ["https://qauto2.forstudy.space/api", "https://qauto.forstudy.space/api"],
+        "users" : 
+        [
+            {
+                "name":"","lastName":"More","email":"vmore0@irs.gov","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXxM8NFKGW","message":"\"name\" is not allowed to be empty"
+            },
+            {
+                "name":"L","lastName":"McAlinden","email":"lmcalinden1@baidu.com","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXxM8NFKGW","message":"Name has to be from 2 to 20 characters long"
+            },
+            {
+                "name":"Linnie","lastName":"","email":"lmccullum2@mapquest.com","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXxM8NFKGW","message":"\"lastName\" is not allowed to be empty"
+            },
+            {
+                "name":"Adel","lastName":"S","email":"astanney3@arstechnica.com","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXxM8NFKGW","message":"Last Name has to be from 2 to 20 characters long"
+            },
+            {
+                "name":"Beltran","lastName":"Rich","email":"","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXxM8NFKGW","message":"\"email\" is not allowed to be empty"
+            }, 
+            {
+                "name":"Standford","lastName":"Tonnesen","email":"stonnesen5@","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXxM8NFKGW","message":"Email is incorrect"
+            }, 
+            {
+                "name":"Austen","lastName":"Kemwal","email":"akemwal6@miitbeian.gov.cn","password":"","repeatPassword":"b2eVApXxM8NFKGW","message":"\"password\" is not allowed to be empty"
+            },
+            {
+                "name":"Austen","lastName":"Kemwal","email":"akem345@miitbeian.gov.cn","password":"fg","repeatPassword":"b2eVApXxM8NFKGW","message":"Password has to be from 8 to 15 characters long and contain at least one integer, one capital, and one small letter"
+            },
+            {
+                "name":"Link","lastName":"Cromer","email":"lcromer7@noaa.gov","password":"b2eVApXxM8NFKGW","repeatPassword":"b2eVApXx","message":"Passwords do not match"
+            }
+        ]
+    }
+]
